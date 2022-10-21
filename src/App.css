@@ -1,0 +1,38 @@
+.App {
+text-align: center;
+}
+
+.container{
+    width: 800px;
+    height: 500px;
+    background-color: cornflowerblue;
+    margin: auto;
+}
+.container1 ul{
+    font-size: 22px;
+    font-weight: bold;
+    background-color: cornflowerblue;
+    list-style: none;
+    text-align: start;
+  
+}
+
+.forForm{
+   width: 200px;
+   display: flex;
+   /* flex-direction: column; */
+   padding: 50px;
+}
+input{
+    height: 30px;
+}
+
+.box{
+    width: 800px;
+    height: 100px;
+    background-color: blueviolet;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
